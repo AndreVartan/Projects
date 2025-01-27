@@ -1,10 +1,10 @@
 ```
 Jogo da Velha
 
-Descrições do Projeto
+*Descrições do Projeto*
 Este é um jogo da velha implementado em linguagem C. O jogo é jogado em um tabuleiro 3x3 e suporta dois jogadores. Cada jogador alterna suas jogadas, escolhendo uma posição no tabuleiro até que haja um vencedor ou um empate.
 
-##Regras do Jogo
+*Regras do Jogo*
 1- O jogo é jogado em um tabuleiro de 3x3.
 2- Existem dois jogadores:
     Jogador 1: 'x'
